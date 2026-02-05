@@ -17,6 +17,7 @@ public class test2 {
 		for(int i=0 ;i<n;i++){
 			System.out.println("The marks of student number: "+(i+1)+"  is  "+arr[i]);
 		}
+		System.out.println("Operation completed");
 	}
 
 }
