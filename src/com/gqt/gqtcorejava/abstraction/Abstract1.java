@@ -130,7 +130,7 @@ public class Abstract1 {
 		fp.carryWepons();
 		
 		
-		System.out.println("abstraction completed");
+		System.out.println("abstraction completed");// new
 		
 		
 		
